@@ -11,7 +11,7 @@ body {
 .principal {
   color: #ececec;
   text-align: center;
-  width: 370px;
+  width: 340px;
   margin: 60px auto;
 }
 
@@ -24,14 +24,15 @@ body {
 
 h1 {
   font-family: "Poppins", sans-serif;
-  margin-top: 36px;
+  font-size: 30px;
+  margin-top: 26px;
   margin-bottom: 6px;
 }
 
 p {
   font-family: "Poppins", sans-serif;
   color: gold;
-  margin-bottom: 48px;
+  margin-bottom: 42px;
 }
 
 ul {
