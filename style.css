@@ -48,7 +48,7 @@ ul li a {
   justify-content: center;
   text-decoration: none;
   margin-bottom: 16px;
-  color: gold;
+  color: rgb(37, 37, 37);
   background: #ececec;
   font-weight: bold;
   transition: background 360ms;
