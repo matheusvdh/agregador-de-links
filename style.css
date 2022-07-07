@@ -48,7 +48,7 @@ ul li a {
   justify-content: center;
   text-decoration: none;
   margin-bottom: 16px;
-  color: #2b2b2b;
+  color: gold;
   background: #ececec;
   font-weight: bold;
   transition: background 360ms;
@@ -61,4 +61,5 @@ ul li a {
 
 ul li a:hover {
   background-color: gold;
+  color: #2b2b2b;
 }
