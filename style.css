@@ -12,7 +12,7 @@ body {
   color: #ececec;
   text-align: center;
   width: 320px;
-  margin: 2.5rem auto;
+  margin: 2rem auto;
 }
 
 #avatar {
@@ -30,7 +30,7 @@ h1, p, img {
 h1 {
   font-family: "Poppins", sans-serif;
   font-size: 1.4rem;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 p {
