@@ -12,7 +12,7 @@ body {
   color: #ececec;
   text-align: center;
   width: 320px;
-  margin: 2rem auto;
+  margin: 1.5rem auto;
 }
 
 #avatar {
@@ -30,7 +30,7 @@ h1, p, img {
 h1 {
   font-family: "Poppins", sans-serif;
   font-size: 1.4rem;
-  margin-top: 1rem;
+  margin-top: 0.8rem;
 }
 
 p {
@@ -41,7 +41,7 @@ p {
 
 ul {
   list-style: none;
-  width: 310px;
+  width: 316px;
   margin: 0 auto;
 }
 
@@ -53,7 +53,7 @@ ul li a {
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.6rem;
   color: rgb(37, 37, 37);
   background: #ececec;
   font-weight: bold;
@@ -99,7 +99,7 @@ ul li a:hover {
   h1 {
     font-family: "Poppins", sans-serif;
     font-size: 1.8rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
   }
   
   p {
@@ -117,7 +117,7 @@ ul li a:hover {
   ul li a {
     font-family: "Poppins", sans-serif;
     border-radius: 50px;
-    padding: 1.5rem;
+    padding: 1.4rem;
     display: flex;
     align-items: center;
     justify-content: center;
