@@ -37,6 +37,7 @@ h1 {
 p {
   font-family: "Poppins", sans-serif;
   color: gold;
+  font-size: 0.9rem;
   margin-bottom: 2rem;
 }
 
@@ -93,7 +94,7 @@ ul li a:hover {
   }
 
   ul {
-    width: 420px;
+    width: 560px;
   }
 
   ul li a {
