@@ -11,8 +11,8 @@ body {
 .principal {
   color: #ececec;
   text-align: center;
-  width: 340px;
-  margin: 3rem auto;
+  width: 400px;
+  margin: 2.5rem auto;
 }
 
 #avatar {
@@ -23,7 +23,7 @@ body {
 
 
 h1, p, img {
-  width: 280px;
+  width: 360px;
   margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@ p {
 
 ul {
   list-style: none;
-  width: 320px;
+  width: 390px;
   margin: 0 auto;
 }
 
