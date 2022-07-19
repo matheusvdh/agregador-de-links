@@ -11,7 +11,7 @@ body {
 .principal {
   color: #ececec;
   text-align: center;
-  width: 360px;
+  width: 340px;
   margin: 3rem auto;
 }
 
@@ -21,6 +21,11 @@ body {
   border: 2px solid gold;
 }
 
+
+h1, p, img {
+  width: 280px;
+  margin: 0 auto;
+}
 
 h1 {
   font-family: "Poppins", sans-serif;
@@ -36,6 +41,8 @@ p {
 
 ul {
   list-style: none;
+  width: 320px;
+  margin: 0 auto;
 }
 
 ul li a {
